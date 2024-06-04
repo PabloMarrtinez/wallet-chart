@@ -8,3 +8,11 @@ minikube ip
 
 
 minikube mount /home/pablito/Desktop/git/test/wallet/shared:/mnt/shared
+
+
+
+
+
+
+minikube start
+kubectl create namespace ips
