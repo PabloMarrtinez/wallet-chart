@@ -9,4 +9,10 @@ appVersion: "4.0.0"
 dependencies:
   - name: vcverifier
     version: 1.0.22
-    repository: https://i4trust.github.io/helm-charts
+    repository: pablomarrtinez/wallet:v2.1
+
+
+
+
+
+    
